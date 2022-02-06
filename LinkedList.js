@@ -248,6 +248,4 @@ console.log(myLinkedList.reverseList());
 console.log(myLinkedList.printList());
 console.log('');
 
-const myLinkedList1 = new LinkedList(10);
-myLinkedList1.append(20).append(30).append(40).append(50);
 
